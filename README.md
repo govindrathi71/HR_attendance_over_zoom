@@ -3,16 +3,16 @@ I joined a new company. My HR has to download the zoom report for participants t
 
 The list of employees in .txt file is like follows:
 
-<employee1_code>
-<employee1_name>
-<employee2_code>
-<employee2_name>
+<employee1_code> \
+<employee1_name> \
+<employee2_code> \
+<employee2_name> \
 ...
 
 The CSV file is in the following format
 
-Name (Original Name), User Email, Join Time, Leave Time, Duration (Minutes)
-<employee1_name>, <emp1@email.com, <date time>, <date time>, <time in minutes>
+Name (Original Name), User Email, Join Time, Leave Time, Duration (Minutes) \
+<employee1_name>, <emp1_email>, <date time>, <date time>, <time in minutes> \
 ...
 
 

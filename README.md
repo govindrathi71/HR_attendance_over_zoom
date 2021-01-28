@@ -12,7 +12,7 @@ The list of employees in .txt file is like follows:
 The CSV file is in the following format
 
 Name (Original Name), User Email, Join Time, Leave Time, Duration (Minutes) \
-<employee1_name>, <emp1_email>, <date time>, <date time>, <time in minutes> \
+<employee1_name>, <emp1_email>, <Join_date_time>, <leave_date_time>, <time_in_minutes> \
 ...
 
 
